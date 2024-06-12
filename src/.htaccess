@@ -1,0 +1,20 @@
+ErrorDocument 403 /web/home/error.php
+ErrorDocument 404 /web/home/error.php
+ErrorDocument 500 /web/home/error.php
+
+Options All -Indexes
+
+<files ~ "\.dat$">
+order allow,deny
+deny from all
+</files> 
+
+<files ~ "\.backup$">
+order allow,deny
+deny from all
+</files> 
+
+<Files "dictLis.dat">  
+  Order Allow,Deny
+  Allow from all
+</Files>
