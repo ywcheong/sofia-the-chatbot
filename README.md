@@ -4,7 +4,7 @@
 
 ## What is Sofia, the Chatbot?
 
-**Sofia, the Chatbot** serves as the backend for the *[Kakaotalk](https://www.kakaocorp.com/page/service/service/KakaoTalk)* channel [Sofia: KSA translation system](https://pf.kakao.com/_xocQIxb). Sofia automatically assigns translation tasks created by managers to participants. After completing the tasks, participants can conveniently report their performance through *KakaoTalk*. **Sofia, the Chatbot** also supports a web dashboard, so managers can easily manage the entire project. 
+**Sofia, the Chatbot** serves as the backend for the *[Kakaotalk](https://www.kakaocorp.com/page/service/service/KakaoTalk)* channel [Sofia: KSA translation system](https://pf.kakao.com/_xocQIxb). Sofia automatically assigns translation tasks created by managers to participants. After completing the tasks, participants can conveniently report their performance through *KakaoTalk*. **Sofia, the Chatbot** also supports a web dashboard, so managers can easily manage the entire project.
 
 ### Who are the participants and managers?
 
@@ -49,3 +49,7 @@ This project was launched in 2019 to serve the [Korea Science Academy(KSA) of KA
 
 * ➕<span style="color: blue;">**Add**</span>: **MORE COMMENTS**. As this is my second official web project I made, the code is not pretty, so I added a lot of comments.
 * ➖<span style="color: red;">**Removed**</span>: Codes with security and license issues have been removed.
+
+## Demo image
+
+![Sofia Webpage demo](asset/sofia-web-demo.png)
